@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8e54532d024f418abc6c42554e27b250, type: 3}
+  m_Name: testAnim3
+  m_EditorClassIdentifier: 
+  skin: {fileID: 8496821488151235252, guid: d9e40111b7b09194dab2f931b2362c1b, type: 3}
+  shader: {fileID: 4800000, guid: e7efbd9efbe8f484295b79ae7083979d, type: 3}
+  materialPreset: {fileID: 0}
+  npotBakedTexture: 0
+  animationClips:
+  - {fileID: 7400000, guid: fc66b71ec5ca3294b9bc4783885cee60, type: 2}
+  extraMaterials: []
+  bakedTexture: {fileID: 0}
+  bakedMaterial: {fileID: 0}
+  extraMaterialData: []
+  animationData: []

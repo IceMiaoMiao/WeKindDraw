@@ -84,7 +84,7 @@ public class MainMenu : MonoBehaviour
                     SpriteRenderer sRender=quad.AddComponent<SpriteRenderer>();
                     quad.transform.position = Camera.main.transform.position + Camera.main.transform.forward * 2.5f;
                     quad.transform.forward = Camera.main.transform.forward;
-                    quad.transform.localScale = new Vector3( 6f, 6f, 6f );
+                    quad.transform.localScale = new Vector3( 2f, 2f, 2f );
         
                     Material material = quad.GetComponent<Renderer>().material;
                     /*
